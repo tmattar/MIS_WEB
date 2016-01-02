@@ -1,0 +1,42 @@
+*{
+	font-family:"Comic Sans MS";
+}
+
+#wrapper{
+	width:1000px;
+    margin: 50px auto 0px;
+}
+
+#linkimg{
+}
+
+#alllinkimg{
+}
+
+#contentright{
+}
+
+#contentleft{
+}
+
+#menu{
+	float: right;
+	margin-right: 20px;
+	margin-top: 50px;
+}
+
+#menu>a{
+	border-radius: 10px;
+	padding: 10px 10px;
+	cursor: pointer;
+	background:#113981;
+    text-decoration: none;
+    color: #b6d0f5;
+    font-size: 20px;
+    margin: 0px 20px;
+}
+
+#menu>a:hover{
+    color: white;
+	background:#c90200;
+}
